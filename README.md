@@ -3,19 +3,19 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b> MiTM Attack on Industrial Control System as an insider and outsider </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Presentation and overview]()
 
 - <b> Active Banner Grabber written in Python </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Code and Report](https://github.com/ahtsham396/Active-Banner-Grabber-written-in-Python)
 
 - <b> Intrusion Detection of IIoT </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [PoC](https://github.com/ahtsham396/Intrusion-Detection-of-IIoT)
 
 - <b> Using Motion Sensors as an Adversary </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [PoC Presentation](https://github.com/ahtsham396/Using-Motion-Sensors-as-an-Adversary)
 
 - <b> Privilege Escalation in Linux OS </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Paper and Presentation](https://github.com/ahtsham396/Privilege-Escalation-in-Linux-OS)
 
 
 <h2> 🤳 Connect with me:</h2>
